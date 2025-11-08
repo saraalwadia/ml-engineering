@@ -1,4 +1,4 @@
-# simple_ml_example.py
+# simple-ml-example.py
 
 from sklearn.linear_model import LinearRegression
 from sklearn.model_selection import train_test_split
@@ -13,7 +13,7 @@ y = np.array([2, 4, 6, 8, 10, 12])
 
 # Split data into training and testing sets
 X_train, X_test, y_train, y_test = train_test_split(
-    X, y, test_size=0.2, random_state=1
+    X, y, test_size=0.2, random_state=42
 )
 
 # Create and train the Linear Regression model
