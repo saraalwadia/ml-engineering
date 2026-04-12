@@ -1,0 +1,10 @@
+artifact_location: file:///C:\Users\HP\Desktop\IT\Machine Learning Engineering\ml-engineering\06-experiment\mlruns/977399386582852706/models/m-adb3c8ad73b4446e9e761200e5663883/artifacts
+creation_timestamp: 1775390356597
+experiment_id: '977399386582852706'
+last_updated_timestamp: 1775390391580
+model_id: m-adb3c8ad73b4446e9e761200e5663883
+model_type: null
+name: model
+source_run_id: 5b25abd76db843f8a4044f13f2e711a0
+status: 2
+status_message: null

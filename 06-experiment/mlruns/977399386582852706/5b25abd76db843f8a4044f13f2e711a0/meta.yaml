@@ -1,0 +1,14 @@
+artifact_uri: file:///C:\Users\HP\Desktop\IT\Machine Learning Engineering\ml-engineering\06-experiment\mlruns/977399386582852706/5b25abd76db843f8a4044f13f2e711a0/artifacts
+end_time: 1775390399338
+entry_point_name: ''
+experiment_id: '977399386582852706'
+lifecycle_stage: active
+run_id: 5b25abd76db843f8a4044f13f2e711a0
+run_name: Logistic_Regression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1775390356426
+status: 3
+tags: []
+user_id: HP

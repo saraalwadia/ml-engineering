@@ -1,0 +1,14 @@
+artifact_uri: file:///C:\Users\HP\Desktop\IT\Machine Learning Engineering\ml-engineering\06-experiment\mlruns/977399386582852706/0149ca7bc1da4c6092497ecf8a94eb7e/artifacts
+end_time: 1775383737633
+entry_point_name: ''
+experiment_id: '977399386582852706'
+lifecycle_stage: active
+run_id: 0149ca7bc1da4c6092497ecf8a94eb7e
+run_name: Random_Forest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1775383732142
+status: 3
+tags: []
+user_id: HP
